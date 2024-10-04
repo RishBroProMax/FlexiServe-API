@@ -63,4 +63,7 @@ To deploy this API on Render or Heroku, follow these steps:
 `GET /api/services/weather?city=cityname: Get weather for a specified city.`
 
 ## Currency Conversion:
-`GET /api/services/currency?amount=100&from=USD&to=EUR: Convert currency from one type to another.`
+`GET /api/services/currency?amount=100&from=USD&to=EUR: Convert currency from one type to another.` <Br>
+
+# 🙌 Credits
+## Made with 💖 by MINUDI and maintained with love for developers everywhere.
